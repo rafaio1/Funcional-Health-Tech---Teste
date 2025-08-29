@@ -3,7 +3,7 @@
 <h1 align="center">Funcional Health Tech — Banking APIs <small>(v1)</small></h1>
 
 <p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-8.0-512bd4?logo=dotnet&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-9.0-512bd4?logo=dotnet&logoColor=white">
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-API-2e3a59?logo=dotnet&logoColor=white">
   <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-3.0-6ba539?logo=openapi-initiative&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-LocalDB%2FExpress-a61d3a?logo=microsoftsqlserver&logoColor=white">
