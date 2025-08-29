@@ -1,0 +1,27 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FHT.Api/bin/Debug/net9.0
+/FHT.Api/obj
+/FHT.Api.Core/obj
+/FHT.Application.Core/obj
+/FHT.Application.Mapping/obj
+/FHT.Application.Read/obj
+/FHT.Domain/obj
+/FHT.Domain.Core/obj
+/FHT.Infra.CrossCutting.IoC/obj
+/FHT.Infra.Data/obj
+/FHT.Infra.Data.Core/obj
+/FHT.Infra.Seguranca/obj
+/FHT.Api.Core/bin/Debug/net9.0
+/FHT.Application.Core/bin/Debug/net9.0
+/FHT.Application.Mapping/bin/Debug/net9.0
+/FHT.Application.Read/bin/Debug/net9.0
+/FHT.Domain/bin/Debug/net9.0
+/FHT.Domain.Core/bin/Debug/net9.0
+/FHT.Infra.CrossCutting.IoC/bin/Debug/net9.0
+/FHT.Infra.Data/bin/Debug/net9.0
+/FHT.Infra.Data.Core/bin/Debug/net9.0
+/FHT.Infra.Seguranca/bin/Debug/net9.0
