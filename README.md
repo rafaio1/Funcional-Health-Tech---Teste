@@ -35,9 +35,6 @@
     <li><a href="#erros--convenções">Erros &amp; Convenções</a></li>
     <li><a href="#execução-local">Execução Local</a></li>
     <li><a href="#banco-de-dados--migrações">Banco de Dados &amp; Migrações</a></li>
-    <li><a href="#lgpd">Boas Práticas de LGPD</a></li>
-    <li><a href="#contribuição">Contribuição</a></li>
-    <li><a href="#licença">Licença</a></li>
   </ol>
 </nav>
 
